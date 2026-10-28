@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.session
+*.session-journal
+*.session-wal
+*.session-shm
+.clone-temp/
+bot.log
+.env
